@@ -1,4 +1,5 @@
-# Bucket Sort
+Bucket Sort
+============
 
 * Bucket sort is mainly useful when input is uniformaly distributed over a range.  
 * Time Complexity of sorting individual bucketes using insertion sort is O(n).  
